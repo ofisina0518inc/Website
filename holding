@@ -14,7 +14,7 @@
       justify-content: center;
       min-height: 100vh;
       margin: 0;
-      font-family: sans-serif;
+      font-family: serif;
       text-align: center;
     }
     img {
@@ -26,6 +26,6 @@
 </head>
 <body>
   <p>Thank you for your patronage.</p>
-  <img src="photo.jpg" alt="Description">
+  <img src="/Users/mvs/Documents/GitHub/Website/Ofisina0518Inc-Logo_Coupa-06.png" alt="logo">
 </body>
 </html>
